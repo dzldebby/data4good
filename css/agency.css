@@ -153,6 +153,7 @@ header.masthead {
       font-family: 'Droid Serif', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
     header.masthead .intro-text .intro-heading {
       font-size: 75px;
+      color: black;
       font-weight: 700;
       line-height: 75px;
       margin-bottom: 50px;
